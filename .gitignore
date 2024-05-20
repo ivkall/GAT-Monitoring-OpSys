@@ -1,0 +1,13 @@
+test.csv
+test2.csv
+default_cap_1.txt
+cap_1_array.pkl
+cap_1_array_padded.pkl
+data/noddöd_PLC.csv
+data/standard.txt
+data/.ipynb_checkpoints/test-checkpoint.csv
+data/standard.csv
+*.csv
+machine-0-0.txt
+custom_gcn/saved_model/ae.keras
+data/raw_data/
